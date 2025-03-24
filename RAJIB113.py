@@ -29,7 +29,7 @@ del locals()["sys"]
 
 try:
     #from body64 import kbopen
-    if kbopen("sona")=='Nunu':
+    #if kbopen("sona")=='Nunu':
         #import body64 as os
     else:
         exit("Import Error : body64")
