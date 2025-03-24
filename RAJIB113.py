@@ -1200,7 +1200,7 @@ class approval():
             raise NameError(jump())
     def _buy_(self):
         try:
-            number = '01782182477
+            number = '01782182477'
             os.system(f'am start https://wa.me/+88{number}?text=This+is+My+Key:+{self.key}')
             print(logo)
             print('\n\033[1;37m[\033[1;31m\033[1;37m] NOTE-FREE TOOL ')
